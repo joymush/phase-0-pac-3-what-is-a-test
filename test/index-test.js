@@ -1,13 +1,11 @@
 const { name, height, message } = require("../index.js");
 
 /*
-describe('what-is-a-test', () => {
-  describe('Name', () => {
-    it('returns "Susan"', () => {
-      expect(name).toEqual('Susan')
-    })
+describe("Name," () => {
+  it('returns "Susan"' () => {
+    expect(name).toEqual("Susan");
   })
-
+})
 
   describe('Height', () => {
     it('is less than 40', () => {
